@@ -1,2 +1,2 @@
-![xx](images/xx.jpg)
+![xx](../images/xx.jpg)
 
